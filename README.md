@@ -2,7 +2,7 @@
 
 Cybersecurity Student  
 Imam Abdulrahman Bin Faisal University  
-Currently taking ARTI 308 – Machine Learning 🧠 and applying hands-on labs 💻  
+Currently taking ARTI 308 – Machine Learning and applying hands-on labs 
 
 ---
 
